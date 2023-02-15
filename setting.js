@@ -1,5 +1,9 @@
 api.map("<Ctrl-i>", "<Alt-s>");
 api.map("F", "af");
+api.map("H", "S");
+api.map("L", "D");
+api.map("J", "E");
+api.map("K", "R");
 
 settings.hintAlign = "left";
 
